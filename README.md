@@ -1,4 +1,4 @@
 sudoku
 ======
 
-Alogrith to solve suku game
+algorithm to solve sudoku game
